@@ -9,6 +9,7 @@
 .checkout__ad {
     width: 100%;
     margin-bottom: 10px;
+    align-items: flex-start;
 }
 
 .checkout__title {
